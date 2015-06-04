@@ -1,3 +1,5 @@
 = Volluto
 
 This project rocks and uses MIT-LICENSE.
+
+Jeroen Knoops - Kabisa
